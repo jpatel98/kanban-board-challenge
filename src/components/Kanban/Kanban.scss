@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+.kanban {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  &__section {
+    width: 350px;
+    background-color: #3837;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  &__title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  &__content {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+}
