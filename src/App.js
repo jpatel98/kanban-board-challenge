@@ -1,9 +1,9 @@
-import './App.scss';
+import "./App.scss";
 
 function App() {
   return (
-    <div className="App">
-      Hello World!
+    <div style={{ padding: "50px" }}>
+      <h1 style={{ marginBottom: "20px" }}>Your tasks</h1>
     </div>
   );
 }
