@@ -28,6 +28,15 @@ const Kanban = () => {
                                 <div className="kanban__section__title">
                                     {section.title}
                                 </div>
+                                <div className="kanban__section__content">
+                                    {
+                                        section.tasks.map((task, i) => (
+                                            <Card>
+                                                {task.title}
+                                            </Card>
+                                        ))
+                                    }
+                                </div>
                             </div>
                         )}
                     </Droppable>
