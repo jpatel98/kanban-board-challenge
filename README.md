@@ -2,7 +2,7 @@
 A simple board with drag and drop feature, made with React and a drag and drop library.
 Made within 2 hours as part of an interview challenge.
 
-Note: Data is static and cards are not persistent (i.e card will go back to initial position once refreshed). Neither does it have a backend.
+Note: Data is static and cards are not persistent (i.e card will go back to initial position once refreshed). Neither does it have a backend, nor is it responsive.
 
 ## Libraries Used
 - React Beautiful DnD: https://github.com/atlassian/react-beautiful-dnd
