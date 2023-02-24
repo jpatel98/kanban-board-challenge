@@ -8,6 +8,8 @@ Note: Data is static and cards are not persistent (i.e card will go back to init
 - React Beautiful DnD: https://github.com/atlassian/react-beautiful-dnd
 - SASS: https://sass-lang.com/documentation/
 - UUID: https://www.npmjs.com/package/uuid
+- Github Pages: https://github.com/gitname/react-gh-pages
 
-## Deployed Version
-link to come
+## Deployed Version (via gh-pages)
+https://jpatel98.github.io/kanban-board-challenge/
+PS: I prefer netlify but interview wants me to do via github pages 🤷‍♂️
