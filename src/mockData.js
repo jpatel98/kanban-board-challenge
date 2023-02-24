@@ -1,4 +1,4 @@
-import { v4 as uuidv4 } from 'uuid'
+import { v4 as uuidv4 } from 'uuid';
 
 const mockData = [
     {
@@ -40,3 +40,5 @@ const mockData = [
         ]
     }
 ]
+
+export default mockData;
